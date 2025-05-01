@@ -1,6 +1,6 @@
 # Docker_Yona
 
-Yona 도커 실행을 위한 레포지토리
+Yona ( https://github.com/yona-projects/yona ) 도커 실행을 위한 레포지토리
 
 <br/><br/><br/><br/>
 
